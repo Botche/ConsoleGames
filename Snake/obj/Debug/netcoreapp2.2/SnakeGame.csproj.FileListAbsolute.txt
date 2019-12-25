@@ -20,3 +20,13 @@ C:\Users\Veso\Desktop\Programs\C#\Games\Snake\obj\Debug\netcoreapp2.2\SnakeGame.
 C:\Users\Veso\Desktop\Programs\C#\Games\Snake\obj\Debug\netcoreapp2.2\SnakeGame.AssemblyInfo.cs
 C:\Users\Veso\Desktop\Programs\C#\Games\Snake\obj\Debug\netcoreapp2.2\SnakeGame.dll
 C:\Users\Veso\Desktop\Programs\C#\Games\Snake\obj\Debug\netcoreapp2.2\SnakeGame.pdb
+F:\Programs\GitHub\ConsoledGames\Snake\bin\Debug\netcoreapp2.2\SnakeGame.deps.json
+F:\Programs\GitHub\ConsoledGames\Snake\bin\Debug\netcoreapp2.2\SnakeGame.runtimeconfig.json
+F:\Programs\GitHub\ConsoledGames\Snake\bin\Debug\netcoreapp2.2\SnakeGame.runtimeconfig.dev.json
+F:\Programs\GitHub\ConsoledGames\Snake\bin\Debug\netcoreapp2.2\SnakeGame.dll
+F:\Programs\GitHub\ConsoledGames\Snake\bin\Debug\netcoreapp2.2\SnakeGame.pdb
+F:\Programs\GitHub\ConsoledGames\Snake\obj\Debug\netcoreapp2.2\SnakeGame.csprojAssemblyReference.cache
+F:\Programs\GitHub\ConsoledGames\Snake\obj\Debug\netcoreapp2.2\SnakeGame.AssemblyInfoInputs.cache
+F:\Programs\GitHub\ConsoledGames\Snake\obj\Debug\netcoreapp2.2\SnakeGame.AssemblyInfo.cs
+F:\Programs\GitHub\ConsoledGames\Snake\obj\Debug\netcoreapp2.2\SnakeGame.dll
+F:\Programs\GitHub\ConsoledGames\Snake\obj\Debug\netcoreapp2.2\SnakeGame.pdb

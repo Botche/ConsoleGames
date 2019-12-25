@@ -51,7 +51,7 @@ namespace SnakeGame.Core
 
                 bool isMoving = this.snake
                     .IsMoving(this.pointsOfDirection[(int)snakeDirection]);
-                // TODO Save score after press Y
+                
                 SetsInfo(snake, highScore);
 
                 if (!isMoving)
@@ -110,7 +110,7 @@ namespace SnakeGame.Core
             {
                 SaveScore();
                 Console.Clear();
-                Game.Main();
+                StartUp.Main();
             }
             else
             {

@@ -5,7 +5,7 @@ using SnakeGame.GameObjects.SnakeObject;
 
 namespace SnakeGame
 {
-    class Game
+    class StartUp
     {
         public static void Main()
         {

@@ -110,7 +110,7 @@ namespace SnakeGame.GameObjects.SnakeObject
         private void CalculateScore()
         {
             double foodPoints = foods[foodIndex].FoodPoints;
-            double scoreBonusFromLength= scoreMultiplier * SnakeElements.Count;
+            double scoreBonusFromLength = scoreMultiplier * SnakeElements.Count;
 
             double scoreEarnedFromThisFood = foodPoints + scoreBonusFromLength;
 
